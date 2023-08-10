@@ -49,10 +49,6 @@ const AccordionSummary = styled((props) => (
   justifyContent: "flex-start",
   padding: "0 !important",
   margin: "0 !important",
-  "& .css-1betqn-MuiAccordionSummary-content": {
-    margin: "0 !important",
-    flexGrow: "unset",
-  },
   "& .MuiAccordionSummary-expandIconWrapper.Mui-expanded": {
     transform: "rotate(0deg)",
   },
