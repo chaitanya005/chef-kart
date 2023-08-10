@@ -35,7 +35,7 @@ const MainContentArea = () => {
         contianer
         sx={{
           display: "flex",
-          position: "absolute",
+          position: "fixed",
           bottom: "5%",
           left: "18%",
           padding: "10px",
